@@ -67,4 +67,4 @@ Prompt engineering involves designing and crafting the questions or instructions
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Tell me about baking .[vague
 Tell me the steps involved in baking  a round chocolate cake for 3 people with white frosting
-The improved prompt enables the ai to give a specific answer that best suits the question
+The improved prompt enables the ai to give a specific answer that best suits the question asked
